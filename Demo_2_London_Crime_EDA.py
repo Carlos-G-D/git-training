@@ -114,7 +114,7 @@ if __name__ == "__main__":
     plt.style.use('ggplot')
 
     ### AQUI YA ME HE CANSADO DE COPIAR, PARA CUALQUIER COSA, EN LOS NOTEBOOKS ADJUNTOS ESTAN LOS TROZOS DE CODIGO
-
+    print('The end.')
     # Stopping Spark-Session and Spark context
     sc.stop()
     spark.stop()
